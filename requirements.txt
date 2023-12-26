@@ -1,0 +1,11 @@
+django
+gunicorn
+whitenoise
+psycopg2-binary
+requests
+urllib3
+pymysql
+djangorestframework
+django-cors-headers
+daphne
+psycopg2
